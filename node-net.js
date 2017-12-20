@@ -21,4 +21,3 @@ node.listen(1337);
 node.join(seed, function() {
   console.log(`Connected to ${node.router.size} peers!`);
 });
-asefwaef
